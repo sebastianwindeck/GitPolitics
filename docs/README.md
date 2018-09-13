@@ -1,13 +1,15 @@
 # Welcome to [Git][Politics]
 
-[Git][Politics] is currently a German Student project aiming to 
+[Git][Politics] is currently a German student project aiming to 
 
-1. visualize politicians work,
+1. visualize politician's work world wide,
 2. visualize politics (political processes),
 3. clarify policies
 4. and make the entire political system comprehensible 
 
-for everyone. 
+available for everyone. 
+
+**Image politcs were as transparent as GitHub changes**
 
 On this roadmap the aim is to develop a powerful tool to track all the changes on a easy to use interface. 
 
