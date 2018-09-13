@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+
+title: [Git][Politics]
+description: Make politics transparent for everyone.
+
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
