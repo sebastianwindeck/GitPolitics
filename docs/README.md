@@ -1,5 +1,7 @@
 # Welcome to [Git][Politics]
 
+**Imagine politics were as transparent as GitHub changes, so you could trust in government.**
+
 [Git][Politics] is currently a German student project aiming to 
 
 1. visualize politician's work world wide,
@@ -9,21 +11,35 @@
 
 available for everyone. 
 
-**Imagine politics were as transparent as GitHub changes, so you could trust in government.**
+
 
 On this roadmap the aim is to develop a powerful tool to track all the changes on a easy to use interface. 
 
+Secondly, is it possible to create executable law? We recently develop this ideas and want to integrate this in the [Git][Politics] process. Share your opinion in the comments and issues.
+
 ## [Git] 
 
+'IMAGE GIT-FLOW'
+
 Git is a version control system and familiar tool in the programming world. It is primarly used for source code management, but can help to store any source of files versionizable. Git can be used on a variety on different servers. Mostly known are [GitHub](https://github.com), [Bitbucket](https://bitbucket.com), and [GitLab](https://gitlab.com). But also other servers can be used or created on private servers.
+
+The Git cheat sheet is a useful tool to see the 
+
+
 
 A powerful tool of Git is the braches where different users can change parts of a repository and combine them after changes. 
 
 ## [Politics]
 
+'IMAGE POLITICAL-DISCUSSION'
+
 Politics is about the political process to procede in law making of legislational power. Therefore, ussually poltical topics are subdivided into themes. An adaptable, iterable process is common practice. 
 
 
+
+## [OtherStuff]
+
+On GitHub there are also other repositories created around the recently developing topic [politics](https://github.com/topics/politics). Take a look and feel free to add other ideas. Share your opinion to create a more transparent way to do politics. 
 
 ## Yet to be done
 
