@@ -23,7 +23,7 @@ Secondly, is it possible to create executable law? We recently develop this idea
 
 Git is a version control system and familiar tool in the programming world. It is primarly used for source code management, but can help to store any source of files versionizable. Git can be used on a variety on different servers. Mostly known are [GitHub](https://github.com), [Bitbucket](https://bitbucket.com), and [GitLab](https://gitlab.com). But also other servers can be used or created on private servers.
 
-For all of you, who are not familiar with GitHub. Here is a little introduction page about the [feature of Github](https://github.com/features). They are very generic and appliable for several domains not only coding, but also politics. 
+For all of you, who are not familiar with GitHub. Here is a little introduction page about [features of Github](https://github.com/features). They are very generic and appliable for several domains not only coding, but also politics. 
 
 
 The [git cheat sheet](https://www.git-tower.com/blog/git-cheat-sheet) is a useful tool to get an overview of general the functions of git. Later on, we will provide a political definition of those functions and a domain applied git version for politics. For sure this will include a cheat sheet for gitpol
