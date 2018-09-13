@@ -1,16 +1,21 @@
 # Welcome to [Git][Politics]
 
 [Git][Politics] is currently a German Student project aiming to 
-1. visualize politics (political processes)
-2. clarify policies
-3. 
+
+1. visualize politicians work,
+2. visualize politics (political processes),
+3. clarify policies
+4. and make the entire political system comprehensible 
+
+for everyone. 
+
+On this roadmap the aim is to develop a powerful tool to track all the changes on a easy to use interface. 
 
 ## [Git] 
 
-Git is a version control system and familiar tool in the programming world. It is primarley used for source code management but can help to store any source of files. 
-Git can be used on a variety on different servers. Mostly known are [GitHub](https://github.com), [Bitbucket](https://bitbucket.com), and [GitLab](https://gitlab.com). But also other servers can be used or created on private servers.
+Git is a version control system and familiar tool in the programming world. It is primarly used for source code management, but can help to store any source of files versionizable. Git can be used on a variety on different servers. Mostly known are [GitHub](https://github.com), [Bitbucket](https://bitbucket.com), and [GitLab](https://gitlab.com). But also other servers can be used or created on private servers.
 
-
+A powerful tool of Git is the braches where different users can change parts of a repository and combine them after changes. 
 
 ## [Politics]
 
