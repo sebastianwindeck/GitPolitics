@@ -23,17 +23,18 @@ Secondly, is it possible to create executable law? We recently develop this idea
 
 Git is a version control system and familiar tool in the programming world. It is primarly used for source code management, but can help to store any source of files versionizable. Git can be used on a variety on different servers. Mostly known are [GitHub](https://github.com), [Bitbucket](https://bitbucket.com), and [GitLab](https://gitlab.com). But also other servers can be used or created on private servers.
 
-The Git cheat sheet is a useful tool to see the 
+For all of you, who are not familiar with GitHub. Here is a little introduction page about the [feature of Github](https://github.com/features). They are very generic and appliable for several domains not only coding, but also politics. 
 
 
-
-A powerful tool of Git is the braches where different users can change parts of a repository and combine them after changes. 
+The [git cheat sheet](https://www.git-tower.com/blog/git-cheat-sheet) is a useful tool to get an overview of general the functions of git. Later on, we will provide a political definition of those functions and a domain applied git version for politics. For sure this will include a cheat sheet for gitpol
 
 ## [Politics]
 
 'IMAGE POLITICAL-DISCUSSION'
 
 Politics is about the political process to procede in law making of legislational power. Therefore, ussually poltical topics are subdivided into themes. An adaptable, iterable process is common practice. 
+
+'IMAGE POLITICAL PROCESS'
 
 
 
