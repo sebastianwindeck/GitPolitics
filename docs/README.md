@@ -9,7 +9,7 @@
 
 available for everyone. 
 
-**Image politcs were as transparent as GitHub changes**
+**Imagine politics were as transparent as GitHub changes, so you could trust in government.**
 
 On this roadmap the aim is to develop a powerful tool to track all the changes on a easy to use interface. 
 
