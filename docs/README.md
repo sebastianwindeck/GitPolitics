@@ -26,7 +26,7 @@ Git is a version control system and familiar tool in the programming world. It i
 For all of you, who are not familiar with GitHub. Here is a little introduction page about [features of Github](https://github.com/features). They are very generic and appliable for several domains not only coding, but also politics. 
 
 
-The [git cheat sheet](https://www.git-tower.com/blog/git-cheat-sheet) is a useful tool to get an overview of general the functions of git. Later on, we will provide a political definition of those functions and a domain applied git version for politics. For sure this will include a cheat sheet for gitpol
+The [git cheat sheet](https://www.git-tower.com/blog/git-cheat-sheet) is a useful tool to get an overview of general the functions of git. Later on, we will provide a political definition of those functions and a domain applied git version for politics. For sure this will include a cheat sheet for '''gitpol'''
 
 ## [Politics]
 
@@ -44,7 +44,8 @@ On GitHub there are also other repositories created around the recently developi
 
 ## [Team]
 
-If you are interested how coding and formalization can change politics, you are welcome to join the community. 
+We are a small team of open-minded political and informatics interested people. 
+If you are interested how coding and formalization can change politics, you are welcome to join the community.
 
 
 ## Yet to be done
@@ -53,37 +54,6 @@ If you are interested how coding and formalization can change politics, you are 
 - creating an applied cheat sheet for git
 - 
 
-[editor on GitHub](https://github.com/sebastianwindeck/GitPolitics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Edit on GitHub](https://github.com/sebastianwindeck/GitPolitics/masterdocs/README.md) to maintain and preview the content for your website in Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sebastianwindeck/GitPolitics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
