@@ -1,12 +1,14 @@
 # Welcome to [Git][Politics]
 
-**Imagine politics were as transparent as GitHub changes, so you could trust in government.**
+## [Intro]
+
+Imagine politics were as transparent as GitHub changes, so you could trust in government.
 
 [Git][Politics] is currently a German student project aiming to 
 
-1. visualize politician's work world wide,
-2. visualize politics (political processes),
-3. clarify policies
+1. **visualize politician's work world wide**,
+2. visualize politics (**political processes**),
+3. **clarify policies**
 4. and make the entire political system comprehensible 
 
 available for everyone. 
