@@ -32,7 +32,7 @@ The [git cheat sheet](https://www.git-tower.com/blog/git-cheat-sheet) is a usefu
 
 ## [Politics]
 
-'IMAGE POLITICAL-DISCUSSION'
+![Politics](Politics.jpeg)
 
 Politics is about the political process to procede in law making of legislational power. Therefore, ussually poltical topics are subdivided into themes. An adaptable, iterable process is common practice. 
 
