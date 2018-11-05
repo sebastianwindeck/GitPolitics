@@ -21,7 +21,7 @@ Secondly, is it possible to create executable law? We recently develop this idea
 
 ## [Git] 
 
-'IMAGE GIT-FLOW'
+![Git Flow](https://github.com/rogerdudler/git-guide/blob/gh-pages/files/git_cheat_sheet.pdf)
 
 Git is a version control system and familiar tool in the programming world. It is primarly used for source code management, but can help to store any source of files versionizable. Git can be used on a variety on different servers. Mostly known are [GitHub](https://github.com), [Bitbucket](https://bitbucket.com), and [GitLab](https://gitlab.com). But also other servers can be used or created on private servers.
 
@@ -53,7 +53,7 @@ If you are interested how coding and formalization can change politics, you are 
 ## Yet to be done
 
 - creating a applied fork of git for gitpol
-- creating an applied cheat sheet for git
+- creating an applied cheat sheet for gitpol
 - 
 
 [Edit on GitHub](https://github.com/sebastianwindeck/GitPolitics/masterdocs/README.md) to maintain and preview the content for your website in Markdown files.
