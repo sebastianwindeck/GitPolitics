@@ -21,7 +21,7 @@ Secondly, is it possible to create executable law? We recently develop this idea
 
 ## [Git] 
 
-![Git Flow](https://github.com/rogerdudler/git-guide/blob/gh-pages/files/git_cheat_sheet.pdf)
+![Git Guide](https://github.com/rogerdudler/git-guide/blob/gh-pages/files/git_cheat_sheet.pdf) - thanks to rogerdudler
 
 Git is a version control system and familiar tool in the programming world. It is primarly used for source code management, but can help to store any source of files versionizable. Git can be used on a variety on different servers. Mostly known are [GitHub](https://github.com), [Bitbucket](https://bitbucket.com), and [GitLab](https://gitlab.com). But also other servers can be used or created on private servers.
 
