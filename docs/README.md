@@ -28,7 +28,7 @@ Git is a version control system and familiar tool in the programming world. It i
 For all of you, who are not familiar with GitHub. Here is a little introduction page about [features of Github](https://github.com/features). They are very generic and appliable for several domains not only coding, but also politics. 
 
 
-The [git cheat sheet](https://www.git-tower.com/blog/git-cheat-sheet) is a useful tool to get an overview of general the functions of git. Later on, we will provide a political definition of those functions and a domain applied git version for politics. For sure this will include a cheat sheet for '''gitpol'''
+The [git cheat sheet](https://www.git-tower.com/blog/git-cheat-sheet) or the official [git_cheat_sheet](https://github.github.com/training-kit/) are a useful tool to get an overview of general the functions of git. Later on, we will provide a political definition of those functions and a domain applied git version for politics. For sure this will include a cheat sheet for '''gitpol'''
 
 ## [Politics]
 
