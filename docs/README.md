@@ -44,6 +44,9 @@ Politics is about the political process to procede in law making of legislationa
 
 On GitHub there are also other repositories created around the recently developing topic [politics](https://github.com/topics/politics). Take a look and feel free to add other ideas. Share your opinion to create a more transparent way to do politics. 
 
+This idea is unique. Other people have the very same concept in mind. On Medium Michał Nerć texts in his article [Git as a tool to ultimate democracy](https://medium.com/@derodu/git-as-a-tool-to-ultimate-democracy-26c0af319dce) his perspective how git can change the democratic process and provide transperancy for everyone. 
+  is also some
+
 ## [Team]
 
 We are a small team of open-minded political and informatics interested people. 
