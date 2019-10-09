@@ -23,7 +23,7 @@ Secondly, is it possible to create machine executable law? We recently develop t
 
 [Git](https://github.com/git/git) is a version control system and familiar tool in the programming world. It was created and developed by Linus Towards (also the initial mastermind of Linux). It is primarly used for source code management, but can help to store any source of files versionizable. Git can be used on a variety on different servers. Mostly known are [GitHub](https://github.com), [Bitbucket](https://bitbucket.com), and [GitLab](https://gitlab.com). But also other servers can be used or created on private servers.
 
-Graphical people may want to understand the Git picture in an infographic. A very good one is the following ![Git Guide](https://github.com/rogerdudler/git-guide/blob/gh-pages/files/git_cheat_sheet.pdf). It is simple and easy to understand - thanks to rogerdudler.
+Graphical people may want to understand the Git picture in an infographic. A very good one is the following [Git Guide](https://github.com/rogerdudler/git-guide/blob/gh-pages/files/git_cheat_sheet.pdf). It is simple and easy to understand - thanks to rogerdudler.
 
 For all of you, who are not familiar with GitHub. Here is a little introduction page about [features of Github](https://github.com/features). They are very generic and appliable for several domains not only coding, but also politics. 
 
