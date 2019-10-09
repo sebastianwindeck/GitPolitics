@@ -27,7 +27,7 @@ Graphical people may want to understand the Git picture in an infographic. A ver
 
 For all of you, who are not familiar with GitHub. Here is a little introduction page about [features of Github](https://github.com/features). They are very generic and appliable for several domains not only coding, but also politics. 
 
-The [git cheat sheet](https://www.git-tower.com/blog/git-cheat-sheet) or the official [GitHub cheat sheet](https://github.github.com/training-kit/) are a useful tool to get an overview of general the functions of git. Later on, we will provide a political definition of those functions and a domain applied git version for politics. For sure this will include a cheat sheet for '''gitpol'''
+The [git cheat sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf), [git cheat sheet from tower](https://www.git-tower.com/blog/git-cheat-sheet) or the official [GitHub cheat sheet](https://github.github.com/training-kit/) are a useful tool to get an overview of general the functions of git. Later on, we will provide a political definition of those functions and a domain applied git version for politics. For sure this will include a cheat sheet for '''gitpol'''
 
 ## [Git GUI]
 
