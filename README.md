@@ -22,6 +22,3 @@ Can a statistic be objective? Can data or an algorithm be ojective?
 
 I have the feeling this is impossible? But we can give people the chance to model information fair and transparent and easily comprehensible for everyone. 
 
-1. Was?
-dkfgdfgjl
-2. Wer?
